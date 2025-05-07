@@ -1,15 +1,1 @@
-
-[
-	
-	{
-		"pack_id" : "48440f30-d760-4a23-8b34-0226219f9932",
-		"subpack" : "light",
-		"version" : [ 4, 2, 0 ]
-	},
-	
-	{
-		"pack_id" : "1cf066eb-1254-4b7d-affb-80fe3216b18c",
-		"subpack" : "2_e",
-		"version" : [ 1, 0, 19 ]
-	}
-]
+[]
